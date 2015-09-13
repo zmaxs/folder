@@ -7,6 +7,27 @@
   margin: 0; padding: 0;
 }
 
+body {
+  background: #333;
+}
+
+.header {
+  height: 25px;
+  background: #111;
+  color: #fff;
+  text-align: center;
+  font: 11px/25px Helvetica, Arial, sans-serif;
+}
+
+.header a {
+  color: #eee;
+}
+
+.header a:hover {
+  text-decoration: none;
+}
+
+
 /*PIC*/
 .pic {
   height: 300px;
